@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Carson Tollison</h1>
 <h3 align="center">Software Engineer Intern @ ChiroHD</h3>
-- Lang & Framework: **JavaScript, Angular**
+
+- Lang & Framework: JavaScript, Angular
 
 - My resume can be found here: 
 
