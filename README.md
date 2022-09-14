@@ -3,7 +3,7 @@
 
 - Lang & Framework: JavaScript, Angular
 
-- My resume can be found here:
+- My resume can be found here: **https://docs.google.com/document/d/1nVUHmbLe40EoyLeGU9GbmwsSWCIyKbLw**
 
 - How to reach me: **tollisoncarson@gmail.com**
 
